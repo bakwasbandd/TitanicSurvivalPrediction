@@ -20,5 +20,5 @@ This project explores the Titanic dataset from Kaggle, performs data cleaning, v
 ---
 
 ## 📈 Results
-Model: Logistikc Regression
+Model: Logistic Regression
 Accuracy: ~81% 
